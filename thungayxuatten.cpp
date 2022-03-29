@@ -48,5 +48,5 @@ int main() {
         soTemp = soTemp / 7;
     }
  
-    return 0;
+    return 0
 }
